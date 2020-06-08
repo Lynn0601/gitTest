@@ -1,3 +1,4 @@
 Here is my first Git try.
 i'm 26.
 i think everthing will be OK!
+I live in Shanghai!
